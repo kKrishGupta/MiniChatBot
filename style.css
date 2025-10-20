@@ -1,1 +1,26 @@
-sc
+body{
+  background: radial-gradient(circle,#1e1e2f,#000);
+  color: #00ffcc;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container{
+  text-align: center;
+}
+
+button{
+background: #00ffcc;
+color: #000;
+padding: 10px 20px;
+border: none;
+border-radius: 10px;
+cursor: pointer;
+font-size: 19px;
+}
+
+button:hover{
+  background: #00cca3;
+}
