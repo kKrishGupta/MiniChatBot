@@ -43,7 +43,7 @@
 //   window.speechSynthesis.speak(utterance);
 // }
 
-const GEMINI_API_KEY = "AIzaSyAFIiro4vLwdAxJUlgdr3BAosFQh-jLoKs";
+
 
 const speakBtn = document.getElementById("Speakbtn");
 const userText = document.getElementById("userText");
